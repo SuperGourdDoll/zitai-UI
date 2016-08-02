@@ -1,5 +1,9 @@
 # zitai-UI
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+![image](https://github.com/SuperGourdDoll/zitai-UI/blob/master/crash.jpg)
+![image](https://github.com/SuperGourdDoll/zitai-UI/blob/master/crash.jpg)
+![image](https://github.com/SuperGourdDoll/zitai-UI/blob/master/crash.jpg)
+![image](https://github.com/SuperGourdDoll/zitai-UI/blob/master/crash.jpg)
+![image](https://github.com/SuperGourdDoll/zitai-UI/blob/master/crash.jpg)
 ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
 ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
 ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
